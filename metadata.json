@@ -1,0 +1,8 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A personal portfolio website showcasing skills, experience, projects, and contact information.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
